@@ -1,5 +1,5 @@
 # 四川轻化工大学计算机科学与工程学院
-# 本科毕业设计（论文）LaTeX 模板 (2026版)
+# 本科毕业设计（论文）LaTeX 模板 (2026 测试版)
 
 <p align="center">
   <img src="SUSE-icon.png" width="80" alt="SUSE Logo">
